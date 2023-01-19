@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bcstith/eshop/static/css/main.7f41406b.css",
+    "main.js": "/bcstith/eshop/static/js/main.4729e8b8.js",
+    "index.html": "/bcstith/eshop/index.html",
+    "main.7f41406b.css.map": "/bcstith/eshop/static/css/main.7f41406b.css.map",
+    "main.4729e8b8.js.map": "/bcstith/eshop/static/js/main.4729e8b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f41406b.css",
+    "static/js/main.4729e8b8.js"
+  ]
+}
