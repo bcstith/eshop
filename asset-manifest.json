@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bcstith/eshop/static/css/main.7f41406b.css",
-    "main.js": "/bcstith/eshop/static/js/main.1299139e.js",
+    "main.js": "/bcstith/eshop/static/js/main.33a034bf.js",
     "index.html": "/bcstith/eshop/index.html",
     "main.7f41406b.css.map": "/bcstith/eshop/static/css/main.7f41406b.css.map",
-    "main.1299139e.js.map": "/bcstith/eshop/static/js/main.1299139e.js.map"
+    "main.33a034bf.js.map": "/bcstith/eshop/static/js/main.33a034bf.js.map"
   },
   "entrypoints": [
     "static/css/main.7f41406b.css",
-    "static/js/main.1299139e.js"
+    "static/js/main.33a034bf.js"
   ]
 }
